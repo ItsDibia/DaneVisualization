@@ -80,11 +80,11 @@ const ExportacionesGruposPaisesColombia = () => {
             {/* HEADER */}
             <div className="mb-8">
                 <h1 className="text-4xl font-bold text-gray-900 mb-2">🌍 {data.metadata.titulo}</h1>
-                <div className="flex flex-wrap gap-4 text-sm text-gray-600">
-                    <span>📅 {data.metadata.periodo}</span>
-                    <span>💰 {data.metadata.unidad}</span>
-                    <span className="bg-green-100 text-green-800 px-2 py-1 rounded-full">+0.5%</span>
-                    <span>📊 {data.metadata.fuente}</span>
+                <div className="flex flex-wrap gap-4 text-sm text-gray-600 items-center mt-4">
+                    <span className="bg-slate-700 text-slate-100 px-2 py-1 rounded-full">📅 {data.metadata.periodo}</span>
+                    <span className="bg-indigo-700 text-indigo-100 px-2 py-1 rounded-full">💰 {data.metadata.unidad}</span>
+                    <span className="bg-green-700 text-green-100 px-2 py-1 rounded-full">+0.5%</span>
+                    <span className="bg-slate-700 text-slate-100 px-2 py-1 rounded-full">📊 {data.metadata.fuente}</span>
                 </div>
             </div>
 
@@ -103,26 +103,6 @@ const ExportacionesGruposPaisesColombia = () => {
                             {view === 'grupos' ? data.por_grupos_paises.grupos.map(g => <option key={g.codigo} value={g.codigo}>{g.nombre}</option>) : data.por_paises.paises.map(p => <option key={p.codigo} value={p.codigo}>{p.nombre}</option>)}
                         </select>
                     )}
-                </div>
-            </div>
-
-            {/* KPIs */}
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-6">
-                <div className="bg-blue-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-blue-900">🇺🇸 EE.UU. #1</h3>
-                    <p className="text-2xl font-bold text-blue-700">9.9M (30.3%)</p>
-                </div>
-                <div className={`rounded-lg p-6 text-center ${getColor('UE')}`}>
-                    <h3 className="text-lg font-semibold">🇪🇺 UE +33.6%</h3>
-                    <p className="text-2xl font-bold">4.2M</p>
-                </div>
-                <div className="bg-red-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-red-900">🇨🇳 CHINA -42.2%</h3>
-                    <p className="text-2xl font-bold text-red-700">1.0M</p>
-                </div>
-                <div className="bg-green-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-green-900">☕ CAFÉ +80%</h3>
-                    <p className="text-2xl font-bold text-green-700">En TODOS los mercados</p>
                 </div>
             </div>
 
@@ -221,22 +201,6 @@ const ExportacionesGruposPaisesColombia = () => {
                             ))}
                         </tbody>
                     </table>
-                </div>
-            </div>
-
-            {/* ALERTAS CRÍTICAS */}
-            <div className="mt-6 grid grid-cols-1 md:grid-cols-3 gap-4">
-                <div className={`rounded-lg p-4 ${getColor('UE')}`}>
-                    <h3 className="font-semibold">🚀 UE EXPLOTA +33.6%</h3>
-                    <p className="font-bold">Café x2 (+97.8%)</p>
-                </div>
-                <div className="bg-red-50 border border-red-200 rounded-lg p-4">
-                    <h3 className="font-semibold text-red-800">💥 CHINA -42.2%</h3>
-                    <p className="text-red-600 font-bold">Combustibles -68%</p>
-                </div>
-                <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
-                    <h3 className="font-semibold text-orange-800">⚠️ MÉXICO -27%</h3>
-                    <p className="text-orange-600 font-bold">Combustibles -73%</p>
                 </div>
             </div>
         </div>

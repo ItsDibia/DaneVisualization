@@ -215,22 +215,6 @@ const PetroleumExportData = () => {
           </table>
         </div>
       </div>
-
-      {/* Resumen Total */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6">
-        <div className="bg-blue-50 rounded-lg p-6 text-center">
-          <h3 className="text-lg font-semibold text-blue-900">Total {periodo}</h3>
-          <p className="text-2xl font-bold text-blue-700">
-            {medida === 'MilesDolaresFOB' ? 
-              (data.Total[periodo][medida]['2025p']/1000).toFixed(0) + 'K' : 
-              data.Total[periodo][medida]['2025p'].toFixed(1)
-            }
-          </p>
-          <p className={`text-sm ${getVariacionColor(data.Total[periodo][medida].Variacion)}`}>
-            {formatVariacion(data.Total[periodo][medida].Variacion)}
-          </p>
-        </div>
-      </div>
     </div>
   );
 };

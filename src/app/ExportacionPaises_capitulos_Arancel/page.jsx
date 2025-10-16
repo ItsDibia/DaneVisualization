@@ -109,10 +109,10 @@ const ExportacionesPaisesCapituloColombia = () => {
                     🌍 {data.metadata.titulo}
                 </h1>
                 <div className="flex flex-wrap items-center gap-4 text-sm text-gray-600">
-                    <span>📅 {data.metadata.periodo}</span>
-                    <span>💰 {data.metadata.unidad}</span>
-                    <span className="bg-yellow-100 text-yellow-800 px-2 py-1 rounded">⚠️ {data.metadata.nota}</span>
-                    <span>📊 {data.metadata.fuente}</span>
+                    <span className="bg-gray-200 px-2 py-1 rounded font-bold rounded-full">📅 {data.metadata.periodo}</span>
+                    <span className="bg-gray-200 px-2 py-1 rounded font-bold rounded-full">💰 {data.metadata.unidad}</span>
+                    <span className="bg-yellow-100 text-yellow-800 px-2 py-1 rounded font-bold rounded-full">⚠️ {data.metadata.nota}</span>
+                    <span className="bg-gray-200 px-2 py-1 rounded font-bold rounded-full">📊 {data.metadata.fuente}</span>
                 </div>
             </div>
 
@@ -136,31 +136,6 @@ const ExportacionesPaisesCapituloColombia = () => {
                             ))}
                         </select>
                     )}
-                </div>
-            </div>
-
-            {/* KPIs Principales */}
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-6">
-                <div className="bg-blue-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-blue-900">🇺🇸 #1 Destino 2025</h3>
-                    <p className="text-2xl font-bold text-blue-700">{formatNumber(data.resumen_tendencias.principales_destinos_2025[0].valor)}</p>
-                    <p className="text-sm">{data.resumen_tendencias.principales_destinos_2025[0].participacion}%</p>
-                </div>
-                <div className={`rounded-lg p-6 text-center ${getColorVariacion(-56.3)}`}>
-                    <h3 className="text-lg font-semibold">🚨 Mayor Caída</h3>
-                    <p className="text-2xl font-bold">{formatVariacion(-56.3)}</p>
-                    <p className="text-sm">🇨🇳 China</p>
-                </div>
-                <div className="bg-green-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-green-900">⛽ Capítulo #1</h3>
-                    <p className="text-lg font-bold text-green-700">Combustibles</p>
-                    <p className="text-sm">5 países principales</p>
-                </div>
-                <div className="bg-purple-50 rounded-lg p-6 text-center">
-                    <h3 className="text-lg font-semibold text-purple-900">📊 Total Exportado</h3>
-                    <p className="text-2xl font-bold text-purple-700">
-                        {formatNumber(data.paises.reduce((sum, p) => sum + p.totales_historicos['2025'], 0))}
-                    </p>
                 </div>
             </div>
 
@@ -225,7 +200,7 @@ const ExportacionesPaisesCapituloColombia = () => {
                                 <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">2025</th>
                                 <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">2024</th>
                                 <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">Variación</th>
-                                <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">#1 Capítulo</th>
+                                <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">Capítulo</th>
                             </tr>
                         </thead>
                         <tbody className="bg-white divide-y divide-gray-200">

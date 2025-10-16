@@ -69,11 +69,11 @@ const TopProductosExportados = () => {
             {/* HEADER ÉPICO */}
             <div className="mb-8">
                 <h1 className="text-4xl font-bold text-gray-900 mb-2">🏆 {data.metadata.titulo}</h1>
-                <div className="flex flex-wrap gap-4 text-sm text-gray-600">
-                    <span>📅 {data.metadata.periodo}</span>
-                    <span>🏢 {data.metadata.region}</span>
+                <div className="flex flex-wrap gap-4 text-sm text-gray-600 mt-4">
+                    <span className="bg-yellow-200 px-2 py-1 rounded-full">📅 {data.metadata.periodo}</span>
+                    <span className="bg-indigo-200 px-2 py-1 rounded-full">🏢 {data.metadata.region}</span>
                     <span className="bg-blue-100 text-blue-800 px-2 py-1 rounded-full">+0.5%</span>
-                    <span>📊 {data.metadata.fuente}</span>
+                    <span className="bg-slate-200 px-2 py-1 rounded-full">📊 {data.metadata.fuente}</span>
                 </div>
             </div>
 

@@ -271,12 +271,10 @@ const ExportacionesGruposCapítulosCUCI = () => {
         <div className={`bg-green-50 rounded-lg p-4 ${getColorContribucion(8.5)}`}>
           <h3 className="font-semibold">🚀 HÉROE ☕</h3>
           <p className="font-bold">Agro +37.4%</p>
-          <p className="text-sm">+8.5pp SALVA TODO</p>
         </div>
         <div className={`bg-yellow-50 rounded-lg p-4 ${getColorContribucion(-9.5)}`}>
           <h3 className="font-semibold">💥 CRISIS ⛽</h3>
           <p className="font-bold">Combust. -19.6%</p>
-          <p className="text-sm">-9.5pp FRENA TODO</p>
         </div>
         <div className="bg-orange-50 rounded-lg p-4">
           <h3 className="font-semibold">🥩 EXPLOSIÓN</h3>
