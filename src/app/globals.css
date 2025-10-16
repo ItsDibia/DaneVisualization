@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 body {
-    zoom:85%;
+    zoom:70%;
     color:black;
     background: linear-gradient(to right, #01305f, #043f63);
 }
