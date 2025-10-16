@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "titulo": "Exportaciones según grupos de productos y capítulos - CUCI Rev.3",
+    "periodo": "Agosto (2025/2024)",
+    "region": "Total nacional",
+    "fuente": "DANE",
+    "fecha_actualizacion": "2025"
+  },
+  "totales": {
+    "valor_dolares": {
+      "enero_agosto_2024": 32482085,
+      "enero_agosto_2025": 32659687,
+      "variacion_porcentual": 0.5,
+      "contribucion": 0.5,
+      "agosto_2024": 3845711,
+      "agosto_2025": 3842152,
+      "variacion_porcentual_agosto": -0.1,
+      "contribucion_agosto": -0.1
+    },
+    "toneladas_metricas": {
+      "enero_agosto_2024": 71032708,
+      "enero_agosto_2025": 57770922,
+      "variacion_porcentual": -18.7,
+      "contribucion": -18.7,
+      "agosto_2024": 6455140,
+      "agosto_2025": 5368858,
+      "variacion_porcentual_agosto": -16.8,
+      "contribucion_agosto": -16.8
+    }
+  },
+  "categorias": [
+    {
+      "id": "agropecuario",
+      "nombre": "Agropecuario alimentos y bebidas",
+      "totales": {
+        "valor_dolares": {
+          "enero_agosto_2024": 7387931,
+          "enero_agosto_2025": 10147929,
+          "variacion_porcentual": 37.4,
+          "contribucion": 8.5,
+          "agosto_2024": 851296,
+          "agosto_2025": 1270656,
+          "variacion_porcentual_agosto": 49.3,
+          "contribucion_agosto": 10.9
+        },
+        "toneladas_metricas": {
+          "enero_agosto_2024": 3798739,
+          "enero_agosto_2025": 4541637,
+          "variacion_porcentual": 19.6,
+          "contribucion": 1.0,
+          "agosto_2024": 361910,
+          "agosto_2025": 606102,
+          "variacion_porcentual_agosto": 67.5,
+          "contribucion_agosto": 3.8
+        }
+      },
+      "capitulos": [
+        {
+          "codigo": "00",
+          "descripcion": "Animales vivos no incluidos en el capítulo 03",
+          "valor_dolares": {
+            "enero_agosto_2024": 131447,
+            "enero_agosto_2025": 157704,
+            "variacion_porcentual": 20.0,
+            "contribucion": 0.1,
+            "agosto_2024": 7097,
+            "agosto_2025": 11182,
+            "variacion_porcentual_agosto": 57.5,
+            "contribucion_agosto": 0.1
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 54404,
+            "enero_agosto_2025": 66635,
+            "variacion_porcentual": 22.5,
+            "contribucion": 0.0,
+            "agosto_2024": 2913,
+            "agosto_2025": 4346,
+            "variacion_porcentual_agosto": 49.2,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "01",
+          "descripcion": "Carne y preparados de carne",
+          "valor_dolares": {
+            "enero_agosto_2024": 57536,
+            "enero_agosto_2025": 123152,
+            "variacion_porcentual": 114.0,
+            "contribucion": 0.2,
+            "agosto_2024": 8907,
+            "agosto_2025": 14586,
+            "variacion_porcentual_agosto": 63.8,
+            "contribucion_agosto": 0.1
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 15124,
+            "enero_agosto_2025": 27773,
+            "variacion_porcentual": 83.6,
+            "contribucion": 0.0,
+            "agosto_2024": 2227,
+            "agosto_2025": 2920,
+            "variacion_porcentual_agosto": 31.1,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "02",
+          "descripcion": "Productos lácteos y huevos de aves",
+          "valor_dolares": {
+            "enero_agosto_2024": 42446,
+            "enero_agosto_2025": 41979,
+            "variacion_porcentual": -1.1,
+            "contribucion": 0.0,
+            "agosto_2024": 5412,
+            "agosto_2025": 4523,
+            "variacion_porcentual_agosto": -16.4,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 10223,
+            "enero_agosto_2025": 12105,
+            "variacion_porcentual": 18.4,
+            "contribucion": 0.0,
+            "agosto_2024": 1302,
+            "agosto_2025": 1389,
+            "variacion_porcentual_agosto": 6.7,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "03",
+          "descripcion": "Pescado, crustáceos, moluscos e invertebrados acuáticos y sus preparados",
+          "valor_dolares": {
+            "enero_agosto_2024": 118959,
+            "enero_agosto_2025": 121681,
+            "variacion_porcentual": 2.3,
+            "contribucion": 0.0,
+            "agosto_2024": 7132,
+            "agosto_2025": 13865,
+            "variacion_porcentual_agosto": 94.4,
+            "contribucion_agosto": 0.2
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 27335,
+            "enero_agosto_2025": 24329,
+            "variacion_porcentual": -11.0,
+            "contribucion": 0.0,
+            "agosto_2024": 995,
+            "agosto_2025": 3775,
+            "variacion_porcentual_agosto": 279.4,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "04",
+          "descripcion": "Cereales y preparados de cereales",
+          "valor_dolares": {
+            "enero_agosto_2024": 156856,
+            "enero_agosto_2025": 185464,
+            "variacion_porcentual": 18.2,
+            "contribucion": 0.1,
+            "agosto_2024": 19280,
+            "agosto_2025": 30570,
+            "variacion_porcentual_agosto": 58.6,
+            "contribucion_agosto": 0.3
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 98316,
+            "enero_agosto_2025": 158161,
+            "variacion_porcentual": 60.9,
+            "contribucion": 0.1,
+            "agosto_2024": 10640,
+            "agosto_2025": 46323,
+            "variacion_porcentual_agosto": 335.4,
+            "contribucion_agosto": 0.6
+          }
+        },
+        {
+          "codigo": "05",
+          "descripcion": "Legumbres y frutas",
+          "valor_dolares": {
+            "enero_agosto_2024": 1362911,
+            "enero_agosto_2025": 1579483,
+            "variacion_porcentual": 15.9,
+            "contribucion": 0.7,
+            "agosto_2024": 124300,
+            "agosto_2025": 184292,
+            "variacion_porcentual_agosto": 48.3,
+            "contribucion_agosto": 1.6
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 1806639,
+            "enero_agosto_2025": 2058999,
+            "variacion_porcentual": 14.0,
+            "contribucion": 0.4,
+            "agosto_2024": 143841,
+            "agosto_2025": 256250,
+            "variacion_porcentual_agosto": 78.1,
+            "contribucion_agosto": 1.7
+          }
+        },
+        {
+          "codigo": "06",
+          "descripcion": "Azúcares, preparados de azúcar y miel",
+          "valor_dolares": {
+            "enero_agosto_2024": 436571,
+            "enero_agosto_2025": 481608,
+            "variacion_porcentual": 10.3,
+            "contribucion": 0.1,
+            "agosto_2024": 51164,
+            "agosto_2025": 71248,
+            "variacion_porcentual_agosto": 39.3,
+            "contribucion_agosto": 0.5
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 398897,
+            "enero_agosto_2025": 512712,
+            "variacion_porcentual": 28.5,
+            "contribucion": 0.2,
+            "agosto_2024": 45091,
+            "agosto_2025": 83996,
+            "variacion_porcentual_agosto": 86.3,
+            "contribucion_agosto": 0.6
+          }
+        },
+        {
+          "codigo": "07",
+          "descripcion": "Café, té, cacao, especias y sus preparados",
+          "valor_dolares": {
+            "enero_agosto_2024": 2533797,
+            "enero_agosto_2025": 4441410,
+            "variacion_porcentual": 75.3,
+            "contribucion": 5.9,
+            "agosto_2024": 369478,
+            "agosto_2025": 639699,
+            "variacion_porcentual_agosto": 73.1,
+            "contribucion_agosto": 7.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 479919,
+            "enero_agosto_2025": 546249,
+            "variacion_porcentual": 13.8,
+            "contribucion": 0.1,
+            "agosto_2024": 62736,
+            "agosto_2025": 78047,
+            "variacion_porcentual_agosto": 24.4,
+            "contribucion_agosto": 0.2
+          }
+        },
+        {
+          "codigo": "08",
+          "descripcion": "Pienso para animales (excepto cereales sin moler)",
+          "valor_dolares": {
+            "enero_agosto_2024": 50613,
+            "enero_agosto_2025": 71967,
+            "variacion_porcentual": 42.2,
+            "contribucion": 0.1,
+            "agosto_2024": 7416,
+            "agosto_2025": 7723,
+            "variacion_porcentual_agosto": 4.1,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 30899,
+            "enero_agosto_2025": 37308,
+            "variacion_porcentual": 20.7,
+            "contribucion": 0.0,
+            "agosto_2024": 3124,
+            "agosto_2025": 3906,
+            "variacion_porcentual_agosto": 25.0,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "09",
+          "descripcion": "Productos y preparados comestibles diversos",
+          "valor_dolares": {
+            "enero_agosto_2024": 172153,
+            "enero_agosto_2025": 180848,
+            "variacion_porcentual": 5.1,
+            "contribucion": 0.0,
+            "agosto_2024": 23921,
+            "agosto_2025": 22568,
+            "variacion_porcentual_agosto": -5.7,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 56568,
+            "enero_agosto_2025": 62762,
+            "variacion_porcentual": 10.9,
+            "contribucion": 0.0,
+            "agosto_2024": 8460,
+            "agosto_2025": 7697,
+            "variacion_porcentual_agosto": -9.0,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "11",
+          "descripcion": "Bebidas",
+          "valor_dolares": {
+            "enero_agosto_2024": 42066,
+            "enero_agosto_2025": 55900,
+            "variacion_porcentual": 32.9,
+            "contribucion": 0.0,
+            "agosto_2024": 6584,
+            "agosto_2025": 7556,
+            "variacion_porcentual_agosto": 14.8,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 34406,
+            "enero_agosto_2025": 48049,
+            "variacion_porcentual": 39.7,
+            "contribucion": 0.0,
+            "agosto_2024": 3795,
+            "agosto_2025": 5575,
+            "variacion_porcentual_agosto": 46.9,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "12",
+          "descripcion": "Tabaco y sus productos",
+          "valor_dolares": {
+            "enero_agosto_2024": 6036,
+            "enero_agosto_2025": 9443,
+            "variacion_porcentual": 56.4,
+            "contribucion": 0.0,
+            "agosto_2024": 272,
+            "agosto_2025": 337,
+            "variacion_porcentual_agosto": 23.8,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 830,
+            "enero_agosto_2025": 1393,
+            "variacion_porcentual": 67.8,
+            "contribucion": 0.0,
+            "agosto_2024": 26,
+            "agosto_2025": 81,
+            "variacion_porcentual_agosto": 212.8,
+            "contribucion_agosto": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "combustibles",
+      "nombre": "Combustibles",
+      "totales": {
+        "valor_dolares": {
+          "enero_agosto_2024": 15781337,
+          "enero_agosto_2025": 12686668,
+          "variacion_porcentual": -19.6,
+          "contribucion": -9.5,
+          "agosto_2024": 1726356,
+          "agosto_2025": 1413245,
+          "variacion_porcentual_agosto": -18.1,
+          "contribucion_agosto": -8.1
+        },
+        "toneladas_metricas": {
+          "enero_agosto_2024": 64997776,
+          "enero_agosto_2025": 50840803,
+          "variacion_porcentual": -21.8,
+          "contribucion": -19.9,
+          "agosto_2024": 5802887,
+          "agosto_2025": 4475942,
+          "variacion_porcentual_agosto": -22.9,
+          "contribucion_agosto": -20.6
+        }
+      },
+      "capitulos": [
+        {
+          "codigo": "32",
+          "descripcion": "Hulla, coque y briquetas",
+          "valor_dolares": {
+            "enero_agosto_2024": 4780413,
+            "enero_agosto_2025": 3076956,
+            "variacion_porcentual": -35.6,
+            "contribucion": -5.2,
+            "agosto_2024": 352621,
+            "agosto_2025": 224460,
+            "variacion_porcentual_agosto": -36.3,
+            "contribucion_agosto": -3.3
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 43168394,
+            "enero_agosto_2025": 30549532,
+            "variacion_porcentual": -29.2,
+            "contribucion": -17.8,
+            "agosto_2024": 3046320,
+            "agosto_2025": 2159694,
+            "variacion_porcentual_agosto": -29.1,
+            "contribucion_agosto": -13.7
+          }
+        },
+        {
+          "codigo": "33",
+          "descripcion": "Petróleo, productos derivados y conexos",
+          "valor_dolares": {
+            "enero_agosto_2024": 10271139,
+            "enero_agosto_2025": 8557869,
+            "variacion_porcentual": -16.7,
+            "contribucion": -5.3,
+            "agosto_2024": 1292737,
+            "agosto_2025": 959806,
+            "variacion_porcentual_agosto": -25.8,
+            "contribucion_agosto": -8.7
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 20815946,
+            "enero_agosto_2025": 19920739,
+            "variacion_porcentual": -4.3,
+            "contribucion": -1.3,
+            "agosto_2024": 2730887,
+            "agosto_2025": 2275057,
+            "variacion_porcentual_agosto": -16.7,
+            "contribucion_agosto": -7.1
+          }
+        }
+      ]
+    },
+    {
+      "id": "manufacturas",
+      "nombre": "Manufacturas",
+      "totales": {
+        "valor_dolares": {
+          "enero_agosto_2024": 6894213,
+          "enero_agosto_2025": 7100552,
+          "variacion_porcentual": 3.0,
+          "contribucion": 0.6,
+          "agosto_2024": 952135,
+          "agosto_2025": 844963,
+          "variacion_porcentual_agosto": -11.3,
+          "contribucion_agosto": -2.8
+        },
+        "toneladas_metricas": {
+          "enero_agosto_2024": 2233909,
+          "enero_agosto_2025": 2386079,
+          "variacion_porcentual": 6.8,
+          "contribucion": 0.2,
+          "agosto_2024": 289895,
+          "agosto_2025": 286413,
+          "variacion_porcentual_agosto": -1.2,
+          "contribucion_agosto": -0.1
+        }
+      },
+      "capitulos": [
+        {
+          "codigo": "54",
+          "descripcion": "Productos medicinales y farmacéutico",
+          "valor_dolares": {
+            "enero_agosto_2024": 259717,
+            "enero_agosto_2025": 289607,
+            "variacion_porcentual": 11.5,
+            "contribucion": 0.1,
+            "agosto_2024": 31942,
+            "agosto_2025": 37832,
+            "variacion_porcentual_agosto": 18.4,
+            "contribucion_agosto": 0.2
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 33182,
+            "enero_agosto_2025": 38191,
+            "variacion_porcentual": 15.1,
+            "contribucion": 0.0,
+            "agosto_2024": 3793,
+            "agosto_2025": 5445,
+            "variacion_porcentual_agosto": 43.6,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "55",
+          "descripcion": "Aceites esenciales, productos de perfumería y tocador",
+          "valor_dolares": {
+            "enero_agosto_2024": 633598,
+            "enero_agosto_2025": 700575,
+            "variacion_porcentual": 10.6,
+            "contribucion": 0.2,
+            "agosto_2024": 85115,
+            "agosto_2025": 76363,
+            "variacion_porcentual_agosto": -10.3,
+            "contribucion_agosto": -0.2
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 201435,
+            "enero_agosto_2025": 220440,
+            "variacion_porcentual": 9.4,
+            "contribucion": 0.0,
+            "agosto_2024": 26090,
+            "agosto_2025": 23317,
+            "variacion_porcentual_agosto": -10.6,
+            "contribucion_agosto": 0.0
+          }
+        },
+        {
+          "codigo": "84",
+          "descripcion": "Prendas y accesorios de vestir",
+          "valor_dolares": {
+            "enero_agosto_2024": 291901,
+            "enero_agosto_2025": 294015,
+            "variacion_porcentual": 0.7,
+            "contribucion": 0.0,
+            "agosto_2024": 36856,
+            "agosto_2025": 35571,
+            "variacion_porcentual_agosto": -3.5,
+            "contribucion_agosto": 0.0
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 7319,
+            "enero_agosto_2025": 7549,
+            "variacion_porcentual": 3.1,
+            "contribucion": 0.0,
+            "agosto_2024": 951,
+            "agosto_2025": 899,
+            "variacion_porcentual_agosto": -5.4,
+            "contribucion_agosto": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "id": "otros",
+      "nombre": "Otros",
+      "totales": {
+        "valor_dolares": {
+          "enero_agosto_2024": 2418604,
+          "enero_agosto_2025": 2724539,
+          "variacion_porcentual": 12.6,
+          "contribucion": 0.9,
+          "agosto_2024": 315923,
+          "agosto_2025": 313288,
+          "variacion_porcentual_agosto": -0.8,
+          "contribucion_agosto": -0.1
+        },
+        "toneladas_metricas": {
+          "enero_agosto_2024": 2283,
+          "enero_agosto_2025": 2404,
+          "variacion_porcentual": 5.3,
+          "contribucion": 0.0,
+          "agosto_2024": 448,
+          "agosto_2025": 401,
+          "variacion_porcentual_agosto": -10.4,
+          "contribucion_agosto": 0.0
+        }
+      },
+      "capitulos": [
+        {
+          "codigo": "97",
+          "descripcion": "Oro no monetario (excepto minerales y concentrados de oro)",
+          "valor_dolares": {
+            "enero_agosto_2024": 2405933,
+            "enero_agosto_2025": 2706191,
+            "variacion_porcentual": 12.5,
+            "contribucion": 0.9,
+            "agosto_2024": 314110,
+            "agosto_2025": 311896,
+            "variacion_porcentual_agosto": -0.7,
+            "contribucion_agosto": -0.1
+          },
+          "toneladas_metricas": {
+            "enero_agosto_2024": 44,
+            "enero_agosto_2025": 37,
+            "variacion_porcentual": -16.4,
+            "contribucion": 0.0,
+            "agosto_2024": 6,
+            "agosto_2025": 4,
+            "variacion_porcentual_agosto": -28.3,
+            "contribucion_agosto": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

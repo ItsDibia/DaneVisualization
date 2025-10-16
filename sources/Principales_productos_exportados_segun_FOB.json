@@ -1,0 +1,560 @@
+{
+  "metadata": {
+    "titulo": "Principales productos exportados según el valor FOB",
+    "region": "Total nacional",
+    "periodo": "Enero - agosto (2025/2024)",
+    "fuente": "DANE"
+  },
+  "totales": {
+    "valor_dolares_fob": {
+      "2024": 32482085,
+      "2025": 32659687
+    },
+    "toneladas_metricas": {
+      "2024": 71032708,
+      "2025": 57770922
+    }
+  },
+  "productos": [
+    {
+      "posicion": 1,
+      "partida_arancelaria": "2709000000",
+      "descripcion": "Aceites crudos de petróleo o de mineral bituminoso",
+      "valor_dolares": {
+        "2024": 8314145,
+        "2025": 6737782,
+        "participacion_porcentaje": 20.6
+      },
+      "toneladas_metricas": {
+        "2024": 16770372,
+        "2025": 15659032,
+        "participacion_porcentaje": 27.1
+      }
+    },
+    {
+      "posicion": 2,
+      "partida_arancelaria": "901119000",
+      "descripcion": "Los demás cafés sin tostar, sin descafeinar",
+      "valor_dolares": {
+        "2024": 2042737,
+        "2025": 3671541,
+        "participacion_porcentaje": 11.2
+      },
+      "toneladas_metricas": {
+        "2024": 419346,
+        "2025": 480566,
+        "participacion_porcentaje": 0.8
+      }
+    },
+    {
+      "posicion": 3,
+      "partida_arancelaria": "7108120000",
+      "descripcion": "Oro (incluido el oro platinado), en las demás formas en bruto, para uso no monetario",
+      "valor_dolares": {
+        "2024": 2283263,
+        "2025": 2695027,
+        "participacion_porcentaje": 8.3
+      },
+      "toneladas_metricas": {
+        "2024": 42,
+        "2025": 37,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 4,
+      "partida_arancelaria": "2701120010",
+      "descripcion": "Hullas térmicas",
+      "valor_dolares": {
+        "2024": 3781245,
+        "2025": 2336694,
+        "participacion_porcentaje": 7.2
+      },
+      "toneladas_metricas": {
+        "2024": 39185047,
+        "2025": 26823284,
+        "participacion_porcentaje": 46.4
+      }
+    },
+    {
+      "posicion": 5,
+      "partida_arancelaria": "603199090",
+      "descripcion": "Las demás flores y capullos frescos, cortados para ramos o adornos",
+      "valor_dolares": {
+        "2024": 824805,
+        "2025": 841363,
+        "participacion_porcentaje": 2.6
+      },
+      "toneladas_metricas": {
+        "2024": 84069,
+        "2025": 85253,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 6,
+      "partida_arancelaria": "803901100",
+      "descripcion": "Bananas o plátanos tipo 'cavendish valery' frescos",
+      "valor_dolares": {
+        "2024": 726300,
+        "2025": 834228,
+        "participacion_porcentaje": 2.6
+      },
+      "toneladas_metricas": {
+        "2024": 1449617,
+        "2025": 1603602,
+        "participacion_porcentaje": 2.8
+      }
+    },
+    {
+      "posicion": 7,
+      "partida_arancelaria": "2710192200",
+      "descripcion": "Fueloils (fuel), excepto desechos de aceites y que contengan biodiésel",
+      "valor_dolares": {
+        "2024": 563501,
+        "2025": 598161,
+        "participacion_porcentaje": 1.8
+      },
+      "toneladas_metricas": {
+        "2024": 1449306,
+        "2025": 1632996,
+        "participacion_porcentaje": 2.8
+      }
+    },
+    {
+      "posicion": 8,
+      "partida_arancelaria": "2704001000",
+      "descripcion": "Coques y semicoques de hulla, incluso aglomerados",
+      "valor_dolares": {
+        "2024": 764411,
+        "2025": 584253,
+        "participacion_porcentaje": 1.8
+      },
+      "toneladas_metricas": {
+        "2024": 2696280,
+        "2025": 2586823,
+        "participacion_porcentaje": 4.5
+      }
+    },
+    {
+      "posicion": 9,
+      "partida_arancelaria": "2710191500",
+      "descripcion": "Carburorreactores tipo queroseno para reactores y turbinas",
+      "valor_dolares": {
+        "2024": 552147,
+        "2025": 540119,
+        "participacion_porcentaje": 1.7
+      },
+      "toneladas_metricas": {
+        "2024": 584819,
+        "2025": 677965,
+        "participacion_porcentaje": 1.2
+      }
+    },
+    {
+      "posicion": 10,
+      "partida_arancelaria": "1511100000",
+      "descripcion": "Aceite de palma en bruto",
+      "valor_dolares": {
+        "2024": 255448,
+        "2025": 485148,
+        "participacion_porcentaje": 1.5
+      },
+      "toneladas_metricas": {
+        "2024": 260727,
+        "2025": 434954,
+        "participacion_porcentaje": 0.8
+      }
+    },
+    {
+      "posicion": 11,
+      "partida_arancelaria": "7610100000",
+      "descripcion": "Puertas, ventanas y sus marcos, bastidores y umbrales, de aluminio",
+      "valor_dolares": {
+        "2024": 390948,
+        "2025": 412039,
+        "participacion_porcentaje": 1.3
+      },
+      "toneladas_metricas": {
+        "2024": 37238,
+        "2025": 41930,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 12,
+      "partida_arancelaria": "2710192100",
+      "descripcion": "Gasoils (gasóleo), excepto desechos de aceites y que contengan biodiésel",
+      "valor_dolares": {
+        "2024": 509456,
+        "2025": 343952,
+        "participacion_porcentaje": 1.1
+      },
+      "toneladas_metricas": {
+        "2024": 784516,
+        "2025": 620111,
+        "participacion_porcentaje": 1.1
+      }
+    },
+    {
+      "posicion": 13,
+      "partida_arancelaria": "2616901000",
+      "descripcion": "Minerales de oro y sus concentrados",
+      "valor_dolares": {
+        "2024": 77803,
+        "2025": 327161,
+        "participacion_porcentaje": 1.0
+      },
+      "toneladas_metricas": {
+        "2024": 19824,
+        "2025": 34320,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 14,
+      "partida_arancelaria": "603110000",
+      "descripcion": "Rosas frescas, cortadas para ramos o adornos",
+      "valor_dolares": {
+        "2024": 303770,
+        "2025": 313636,
+        "participacion_porcentaje": 1.0
+      },
+      "toneladas_metricas": {
+        "2024": 42793,
+        "2025": 42364,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 15,
+      "partida_arancelaria": "7202600000",
+      "descripcion": "Ferroníquel",
+      "valor_dolares": {
+        "2024": 361520,
+        "2025": 310238,
+        "participacion_porcentaje": 0.9
+      },
+      "toneladas_metricas": {
+        "2024": 100791,
+        "2025": 93336,
+        "participacion_porcentaje": 0.2
+      }
+    },
+    {
+      "posicion": 16,
+      "partida_arancelaria": "804400010",
+      "descripcion": "Aguacates variedad Hass, frescos o secos",
+      "valor_dolares": {
+        "2024": 191783,
+        "2025": 241182,
+        "participacion_porcentaje": 0.7
+      },
+      "toneladas_metricas": {
+        "2024": 90467,
+        "2025": 125947,
+        "participacion_porcentaje": 0.2
+      }
+    },
+    {
+      "posicion": 17,
+      "partida_arancelaria": "1701999000",
+      "descripcion": "Los demás azúcares de caña o de remolacha y sacarosa químicamente pura",
+      "valor_dolares": {
+        "2024": 165039,
+        "2025": 198891,
+        "participacion_porcentaje": 0.6
+      },
+      "toneladas_metricas": {
+        "2024": 216780,
+        "2025": 308470,
+        "participacion_porcentaje": 0.5
+      }
+    },
+    {
+      "posicion": 18,
+      "partida_arancelaria": "3904102000",
+      "descripcion": "Policloruro de vinilo, sin mezclar con otras sustancias",
+      "valor_dolares": {
+        "2024": 197689,
+        "2025": 194994,
+        "participacion_porcentaje": 0.6
+      },
+      "toneladas_metricas": {
+        "2024": 222774,
+        "2025": 222180,
+        "participacion_porcentaje": 0.4
+      }
+    },
+    {
+      "posicion": 19,
+      "partida_arancelaria": "2101110090",
+      "descripcion": "Los demás extractos, esencias y concentrados de café",
+      "valor_dolares": {
+        "2024": 84492,
+        "2025": 171041,
+        "participacion_porcentaje": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 6275,
+        "2025": 7779,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 20,
+      "partida_arancelaria": "7404000010",
+      "descripcion": "Desperdicios y desechos de cobre, con contenido >= 94%",
+      "valor_dolares": {
+        "2024": 167093,
+        "2025": 164675,
+        "participacion_porcentaje": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 20745,
+        "2025": 19512,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 21,
+      "partida_arancelaria": "603129000",
+      "descripcion": "Los demás claveles frescos, cortados para ramos o adornos",
+      "valor_dolares": {
+        "2024": 149736,
+        "2025": 162744,
+        "participacion_porcentaje": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 24470,
+        "2025": 24759,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 22,
+      "partida_arancelaria": "2101110010",
+      "descripcion": "Café soluble liofilizado, con granulometría de 2.0 - 3.00 mm",
+      "valor_dolares": {
+        "2024": 124222,
+        "2025": 162545,
+        "participacion_porcentaje": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 5820,
+        "2025": 6839,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 23,
+      "partida_arancelaria": "2701120090",
+      "descripcion": "Las demás hullas bituminosas",
+      "valor_dolares": {
+        "2024": 229703,
+        "2025": 155983,
+        "participacion_porcentaje": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 1255892,
+        "2025": 1139369,
+        "participacion_porcentaje": 2.0
+      }
+    },
+    {
+      "posicion": 24,
+      "partida_arancelaria": "3004902900",
+      "descripcion": "Los demás medicamentos para uso humano",
+      "valor_dolares": {
+        "2024": 127620,
+        "2025": 146889,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 28382,
+        "2025": 33267,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 25,
+      "partida_arancelaria": "102299020",
+      "descripcion": "Los demás bovinos domésticos vivos, machos",
+      "valor_dolares": {
+        "2024": 118485,
+        "2025": 145278,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 53910,
+        "2025": 66309,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 26,
+      "partida_arancelaria": "2713200000",
+      "descripcion": "Betún de petróleo",
+      "valor_dolares": {
+        "2024": 113191,
+        "2025": 136424,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 262792,
+        "2025": 334287,
+        "participacion_porcentaje": 0.6
+      }
+    },
+    {
+      "posicion": 27,
+      "partida_arancelaria": "1704901000",
+      "descripcion": "Bombones, caramelos, confites y pastillas",
+      "valor_dolares": {
+        "2024": 127241,
+        "2025": 132216,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 55457,
+        "2025": 57100,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": 28,
+      "partida_arancelaria": "2716000000",
+      "descripcion": "Energía eléctrica",
+      "valor_dolares": {
+        "2024": 141743,
+        "2025": 126829,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 0,
+        "2025": 0,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 29,
+      "partida_arancelaria": "2603000000",
+      "descripcion": "Minerales de cobre y sus concentrados",
+      "valor_dolares": {
+        "2024": 50187,
+        "2025": 121306,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 28234,
+        "2025": 23739,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 30,
+      "partida_arancelaria": "803101000",
+      "descripcion": "Plátanos 'plantains', frescos",
+      "valor_dolares": {
+        "2024": 84689,
+        "2025": 116973,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 103172,
+        "2025": 149773,
+        "participacion_porcentaje": 0.3
+      }
+    },
+    {
+      "posicion": 31,
+      "partida_arancelaria": "3304990000",
+      "descripcion": "Preparaciones de belleza, maquillaje y cuidado de la piel",
+      "valor_dolares": {
+        "2024": 101466,
+        "2025": 115900,
+        "participacion_porcentaje": 0.4
+      },
+      "toneladas_metricas": {
+        "2024": 16069,
+        "2025": 18576,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 32,
+      "partida_arancelaria": "3808921900",
+      "descripcion": "Los demás fungicidas presentados para venta al por menor",
+      "valor_dolares": {
+        "2024": 46168,
+        "2025": 112661,
+        "participacion_porcentaje": 0.3
+      },
+      "toneladas_metricas": {
+        "2024": 2160,
+        "2025": 4724,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 33,
+      "partida_arancelaria": "1801001900",
+      "descripcion": "Los demás cacaos crudos en grano, entero o partido",
+      "valor_dolares": {
+        "2024": 52464,
+        "2025": 111216,
+        "participacion_porcentaje": 0.3
+      },
+      "toneladas_metricas": {
+        "2024": 8758,
+        "2025": 12569,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 34,
+      "partida_arancelaria": "603141000",
+      "descripcion": "Pompones frescos, cortados para ramos o adornos",
+      "valor_dolares": {
+        "2024": 95125,
+        "2025": 109035,
+        "participacion_porcentaje": 0.3
+      },
+      "toneladas_metricas": {
+        "2024": 24185,
+        "2025": 26682,
+        "participacion_porcentaje": 0.0
+      }
+    },
+    {
+      "posicion": 35,
+      "partida_arancelaria": "1513211000",
+      "descripcion": "Aceites de almendra de palma y sus fracciones, en bruto",
+      "valor_dolares": {
+        "2024": 56496,
+        "2025": 107546,
+        "participacion_porcentaje": 0.3
+      },
+      "toneladas_metricas": {
+        "2024": 50876,
+        "2025": 57583,
+        "participacion_porcentaje": 0.1
+      }
+    },
+    {
+      "posicion": "otros",
+      "partida_arancelaria": "0",
+      "descripcion": "Demás productos",
+      "valor_dolares": {
+        "2024": 5572405,
+        "2025": 5717101,
+        "participacion_porcentaje": 17.5
+      },
+      "toneladas_metricas": {
+        "2024": 2996658,
+        "2025": 2462148,
+        "participacion_porcentaje": 4.3
+      }
+    }
+  ]
+}

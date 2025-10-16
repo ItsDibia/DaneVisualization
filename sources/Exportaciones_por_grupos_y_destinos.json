@@ -1,0 +1,785 @@
+{
+  "metadata": {
+    "titulo": "Exportaciones colombianas por países y grupos de destino",
+    "periodo": "Enero - agosto (2025/2024)",
+    "unidad": "Miles de dólares FOB",
+    "fuente": "DANE"
+  },
+  "por_grupos_paises": {
+    "totales": {
+      "2024": 32482085,
+      "2025": 32659687,
+      "variacion_porcentual": 0.5
+    },
+    "grupos": [
+      {
+        "nombre": "Unión Europea",
+        "codigo": "UE",
+        "total": {
+          "2024": 3136754,
+          "2025": 4190522,
+          "variacion_porcentual": 33.6
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 7943,
+            "2025": 8400,
+            "variacion_porcentual": 5.7
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 849655,
+            "2025": 905864,
+            "variacion_porcentual": 6.6
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 541509,
+            "2025": 1071299,
+            "variacion_porcentual": 97.8
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 221277,
+            "2025": 371094,
+            "variacion_porcentual": 67.7
+          },
+          {
+            "nombre": "Minerales",
+            "2024": 13266,
+            "2025": 26325,
+            "variacion_porcentual": 98.4
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 921417,
+            "2025": 1376979,
+            "variacion_porcentual": 49.4
+          },
+          {
+            "nombre": "Productos químicos",
+            "2024": 31675,
+            "2025": 34590,
+            "variacion_porcentual": 9.2
+          },
+          {
+            "nombre": "Materias plásticas",
+            "2024": 29136,
+            "2025": 31443,
+            "variacion_porcentual": 7.9
+          },
+          {
+            "nombre": "Perlas y piedras preciosas",
+            "2024": 320524,
+            "2025": 194336,
+            "variacion_porcentual": -39.4
+          }
+        ]
+      },
+      {
+        "nombre": "ALADI",
+        "codigo": "ALADI",
+        "total": {
+          "2024": 9106222,
+          "2025": 8296422,
+          "variacion_porcentual": -8.9
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 61609,
+            "2025": 62292,
+            "variacion_porcentual": 1.1
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 29411,
+            "2025": 32007,
+            "variacion_porcentual": 8.8
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 46179,
+            "2025": 86310,
+            "variacion_porcentual": 86.9
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 866188,
+            "2025": 988522,
+            "variacion_porcentual": 14.1
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 4422677,
+            "2025": 3211439,
+            "variacion_porcentual": -27.4
+          }
+        ]
+      },
+      {
+        "nombre": "Comunidad Andina",
+        "codigo": "CAN",
+        "total": {
+          "2024": 1970673,
+          "2025": 2180711,
+          "variacion_porcentual": 10.7
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 12714,
+            "2025": 18279,
+            "variacion_porcentual": 43.8
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 6833,
+            "2025": 6826,
+            "variacion_porcentual": -0.1
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 12225,
+            "2025": 22967,
+            "variacion_porcentual": 87.9
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 253788,
+            "2025": 282150,
+            "variacion_porcentual": 11.2
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 265266,
+            "2025": 320464,
+            "variacion_porcentual": 20.8
+          }
+        ]
+      },
+      {
+        "nombre": "Resto ALADI",
+        "codigo": "RESTO_ALADI",
+        "total": {
+          "2024": 7135549,
+          "2025": 6115711,
+          "variacion_porcentual": -14.3
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 48895,
+            "2025": 44013,
+            "variacion_porcentual": -10.0
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 22578,
+            "2025": 25180,
+            "variacion_porcentual": 11.5
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 33953,
+            "2025": 63343,
+            "variacion_porcentual": 86.6
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 4157411,
+            "2025": 2890975,
+            "variacion_porcentual": -30.5
+          }
+        ]
+      },
+      {
+        "nombre": "Mercosur",
+        "codigo": "MERCOSUR",
+        "total": {
+          "2024": 2069552,
+          "2025": 2125366,
+          "variacion_porcentual": 2.7
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 40230,
+            "2025": 29822,
+            "variacion_porcentual": -25.9
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 6438,
+            "2025": 8609,
+            "variacion_porcentual": 33.7
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 10451,
+            "2025": 20075,
+            "variacion_porcentual": 92.1
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 686948,
+            "2025": 528587,
+            "variacion_porcentual": -23.1
+          }
+        ]
+      },
+      {
+        "nombre": "NAFTA",
+        "codigo": "NAFTA",
+        "total": {
+          "2024": 11230463,
+          "2025": 11884305,
+          "variacion_porcentual": 5.8
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 107552,
+            "2025": 98573,
+            "variacion_porcentual": -8.3
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 1669062,
+            "2025": 1850918,
+            "variacion_porcentual": 10.9
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 1008969,
+            "2025": 1765515,
+            "variacion_porcentual": 75.0
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 716756,
+            "2025": 916060,
+            "variacion_porcentual": 27.8
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 4371337,
+            "2025": 3668297,
+            "variacion_porcentual": -16.1
+          }
+        ]
+      }
+    ]
+  },
+  "por_paises": {
+    "totales": {
+      "2024": 32482085,
+      "2025": 32659687,
+      "variacion_porcentual": 0.5
+    },
+    "paises": [
+      {
+        "nombre": "Estados Unidos",
+        "codigo": "US",
+        "region": "NAFTA",
+        "total": {
+          "2024": 9441177,
+          "2025": 9899851,
+          "variacion_porcentual": 4.9,
+          "participacion_2025": 30.3
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 105269,
+            "2025": 95412,
+            "variacion_porcentual": -9.4
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 1603759,
+            "2025": 1773536,
+            "variacion_porcentual": 10.6,
+            "subcategorias": [
+              {
+                "nombre": "Plantas y productos de la floricultura",
+                "2024": 1332833,
+                "2025": 1365858,
+                "variacion_porcentual": 2.5
+              },
+              {
+                "nombre": "Frutos comestibles",
+                "2024": 256325,
+                "2025": 393600,
+                "variacion_porcentual": 53.6
+              }
+            ]
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 830197,
+            "2025": 1434192,
+            "variacion_porcentual": 72.8
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 455165,
+            "2025": 626928,
+            "variacion_porcentual": 37.7
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 3869894,
+            "2025": 3466740,
+            "variacion_porcentual": -10.4
+          },
+          {
+            "nombre": "Perlas y piedras preciosas",
+            "2024": 1002313,
+            "2025": 853484,
+            "variacion_porcentual": -14.8
+          }
+        ]
+      },
+      {
+        "nombre": "Venezuela",
+        "codigo": "VE",
+        "region": "ALADI",
+        "total": {
+          "2024": 608256,
+          "2025": 680739,
+          "variacion_porcentual": 11.9,
+          "participacion_2025": 2.1
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 36437,
+            "2025": 28354,
+            "variacion_porcentual": -22.2
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 148164,
+            "2025": 177316,
+            "variacion_porcentual": 19.7
+          },
+          {
+            "nombre": "Productos químicos",
+            "2024": 139792,
+            "2025": 160772,
+            "variacion_porcentual": 15.0
+          },
+          {
+            "nombre": "Materias plásticas",
+            "2024": 65670,
+            "2025": 78022,
+            "variacion_porcentual": 18.8
+          }
+        ]
+      },
+      {
+        "nombre": "Perú",
+        "codigo": "PE",
+        "region": "CAN",
+        "total": {
+          "2024": 705792,
+          "2025": 911362,
+          "variacion_porcentual": 29.1,
+          "participacion_2025": 2.8
+        },
+        "categorias": [
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 83494,
+            "2025": 102444,
+            "variacion_porcentual": 22.7
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 85785,
+            "2025": 163268,
+            "variacion_porcentual": 90.3
+          },
+          {
+            "nombre": "Productos químicos",
+            "2024": 235353,
+            "2025": 248221,
+            "variacion_porcentual": 5.5
+          },
+          {
+            "nombre": "Minerales",
+            "2024": 8846,
+            "2025": 89199,
+            "variacion_porcentual": null
+          }
+        ]
+      },
+      {
+        "nombre": "Alemania",
+        "codigo": "DE",
+        "region": "UE",
+        "total": {
+          "2024": 396497,
+          "2025": 578964,
+          "variacion_porcentual": 46.0,
+          "participacion_2025": 1.8
+        },
+        "categorias": [
+          {
+            "nombre": "Vegetales",
+            "2024": 119963,
+            "2025": 115170,
+            "variacion_porcentual": -4.0
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 147864,
+            "2025": 311332,
+            "variacion_porcentual": 110.6
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 25006,
+            "2025": 36605,
+            "variacion_porcentual": 46.4
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 48728,
+            "2025": 76092,
+            "variacion_porcentual": 56.2
+          }
+        ]
+      },
+      {
+        "nombre": "Países Bajos",
+        "codigo": "NL",
+        "region": "UE",
+        "total": {
+          "2024": 807026,
+          "2025": 1392265,
+          "variacion_porcentual": 72.5,
+          "participacion_2025": 4.3
+        },
+        "categorias": [
+          {
+            "nombre": "Vegetales",
+            "2024": 241231,
+            "2025": 248598,
+            "variacion_porcentual": 3.1
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 28410,
+            "2025": 74986,
+            "variacion_porcentual": 163.9
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 62668,
+            "2025": 149144,
+            "variacion_porcentual": 138.0
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 386661,
+            "2025": 850461,
+            "variacion_porcentual": 120.0
+          }
+        ]
+      },
+      {
+        "nombre": "Japón",
+        "codigo": "JP",
+        "region": "Asia",
+        "total": {
+          "2024": 360694,
+          "2025": 365543,
+          "variacion_porcentual": 1.3,
+          "participacion_2025": 1.1
+        },
+        "categorias": [
+          {
+            "nombre": "Café, té y especias",
+            "2024": 118531,
+            "2025": 200506,
+            "variacion_porcentual": 69.2
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 145456,
+            "2025": 55304,
+            "variacion_porcentual": -62.0
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 20520,
+            "2025": 31093,
+            "variacion_porcentual": 51.5
+          }
+        ]
+      },
+      {
+        "nombre": "Francia",
+        "codigo": "FR",
+        "region": "UE",
+        "total": {
+          "2024": 110475,
+          "2025": 181460,
+          "variacion_porcentual": 64.3,
+          "participacion_2025": 0.6
+        },
+        "categorias": [
+          {
+            "nombre": "Vegetales",
+            "2024": 51768,
+            "2025": 69207,
+            "variacion_porcentual": 33.7
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 11751,
+            "2025": 58181,
+            "variacion_porcentual": 395.1
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 21686,
+            "2025": 25459,
+            "variacion_porcentual": 17.4
+          }
+        ]
+      },
+      {
+        "nombre": "Bélgica",
+        "codigo": "BE",
+        "region": "UE",
+        "total": {
+          "2024": 416329,
+          "2025": 617676,
+          "variacion_porcentual": 48.4,
+          "participacion_2025": 1.9
+        },
+        "categorias": [
+          {
+            "nombre": "Vegetales",
+            "2024": 166511,
+            "2025": 187626,
+            "variacion_porcentual": 12.7
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 174809,
+            "2025": 307075,
+            "variacion_porcentual": 75.7
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 45360,
+            "2025": 68362,
+            "variacion_porcentual": 50.7
+          }
+        ]
+      },
+      {
+        "nombre": "Ecuador",
+        "codigo": "EC",
+        "region": "CAN",
+        "total": {
+          "2024": 1196547,
+          "2025": 1208782,
+          "variacion_porcentual": 1.0,
+          "participacion_2025": 3.7
+        },
+        "categorias": [
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 161844,
+            "2025": 171924,
+            "variacion_porcentual": 6.2
+          },
+          {
+            "nombre": "Productos químicos",
+            "2024": 282488,
+            "2025": 296179,
+            "variacion_porcentual": 4.8
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 173686,
+            "2025": 152237,
+            "variacion_porcentual": -12.3
+          }
+        ]
+      },
+      {
+        "nombre": "México",
+        "codigo": "MX",
+        "region": "NAFTA",
+        "total": {
+          "2024": 1373839,
+          "2025": 1002413,
+          "variacion_porcentual": -27.0,
+          "participacion_2025": 3.1
+        },
+        "categorias": [
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 231629,
+            "2025": 251193,
+            "variacion_porcentual": 8.4
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 388068,
+            "2025": 103398,
+            "variacion_porcentual": -73.4
+          },
+          {
+            "nombre": "Productos químicos",
+            "2024": 186570,
+            "2025": 201976,
+            "variacion_porcentual": 8.3
+          }
+        ]
+      },
+      {
+        "nombre": "India",
+        "codigo": "IN",
+        "region": "Asia",
+        "total": {
+          "2024": 1806511,
+          "2025": 1233321,
+          "variacion_porcentual": -31.7,
+          "participacion_2025": 3.8
+        },
+        "categorias": [
+          {
+            "nombre": "Combustibles",
+            "2024": 1391994,
+            "2025": 982939,
+            "variacion_porcentual": -29.4
+          },
+          {
+            "nombre": "Perlas y piedras preciosas",
+            "2024": 290584,
+            "2025": 130093,
+            "variacion_porcentual": -55.2
+          }
+        ]
+      },
+      {
+        "nombre": "China",
+        "codigo": "CN",
+        "region": "Asia",
+        "total": {
+          "2024": 1798027,
+          "2025": 1039793,
+          "variacion_porcentual": -42.2,
+          "participacion_2025": 3.2
+        },
+        "categorias": [
+          {
+            "nombre": "Combustibles",
+            "2024": 1238908,
+            "2025": 397078,
+            "variacion_porcentual": -67.9
+          },
+          {
+            "nombre": "Fundición, hierro y acero",
+            "2024": 187875,
+            "2025": 173506,
+            "variacion_porcentual": -7.6
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 117771,
+            "2025": 117368,
+            "variacion_porcentual": -0.3
+          },
+          {
+            "nombre": "Metales y sus manufacturas",
+            "2024": 116670,
+            "2025": 130734,
+            "variacion_porcentual": 12.1
+          }
+        ]
+      },
+      {
+        "nombre": "Panamá",
+        "codigo": "PA",
+        "region": "Centroamérica",
+        "total": {
+          "2024": 2969106,
+          "2025": 2248767,
+          "variacion_porcentual": -24.3,
+          "participacion_2025": 6.9
+        },
+        "categorias": [
+          {
+            "nombre": "Combustibles",
+            "2024": 2746815,
+            "2025": 2007596,
+            "variacion_porcentual": -26.9
+          },
+          {
+            "nombre": "Minerales",
+            "2024": 579,
+            "2025": 657,
+            "variacion_porcentual": 13.5
+          }
+        ]
+      },
+      {
+        "nombre": "Demás Países",
+        "codigo": "OTROS",
+        "total": {
+          "2024": 10491808,
+          "2025": 11298751,
+          "variacion_porcentual": 7.7,
+          "participacion_2025": 34.6
+        },
+        "categorias": [
+          {
+            "nombre": "Animales y sus productos",
+            "2024": 212412,
+            "2025": 249335,
+            "variacion_porcentual": 17.4
+          },
+          {
+            "nombre": "Vegetales",
+            "2024": 652380,
+            "2025": 709700,
+            "variacion_porcentual": 8.8
+          },
+          {
+            "nombre": "Café, té y especias",
+            "2024": 694827,
+            "2025": 1249458,
+            "variacion_porcentual": 79.8
+          },
+          {
+            "nombre": "Alimentos, bebidas y tabaco",
+            "2024": 651155,
+            "2025": 1042587,
+            "variacion_porcentual": 60.1
+          },
+          {
+            "nombre": "Combustibles",
+            "2024": 4627427,
+            "2025": 3387993,
+            "variacion_porcentual": -26.8
+          },
+          {
+            "nombre": "Perlas y piedras preciosas",
+            "2024": 1217509,
+            "2025": 1828635,
+            "variacion_porcentual": 50.2
+          }
+        ]
+      }
+    ]
+  }
+}

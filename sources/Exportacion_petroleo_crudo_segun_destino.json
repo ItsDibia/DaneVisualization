@@ -1,0 +1,72 @@
+{
+  "Total": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 8314145, "2025p": 6737782, "Variacion": -19.0 },
+      "MillonesBarriles": { "2024p": 114.1, "2025p": 106.5, "Variacion": -6.6 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 1032036, "2025p": 690239, "Variacion": -33.1 },
+      "MillonesBarriles": { "2024p": 14.8, "2025p": 11.2, "Variacion": -24.4 }
+    }
+  },
+  "Estados Unidos": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 3113811, "2025p": 2737291, "Variacion": -12.1 },
+      "MillonesBarriles": { "2024p": 42.7, "2025p": 43.4, "Variacion": 1.6 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 418745, "2025p": 281141, "Variacion": -32.9 },
+      "MillonesBarriles": { "2024p": 5.9, "2025p": 4.5, "Variacion": -24.1 }
+    }
+  },
+  "China": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 666245, "2025p": 312609, "Variacion": -53.1 },
+      "MillonesBarriles": { "2024p": 9.4, "2025p": 4.8, "Variacion": -49.1 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 130007, "2025p": 0, "Variacion": -100.0 },
+      "MillonesBarriles": { "2024p": 1.9, "2025p": 0.0, "Variacion": -100.0 }
+    }
+  },
+  "Panamá": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 2719272, "2025p": 1970791, "Variacion": -27.5 },
+      "MillonesBarriles": { "2024p": 37.0, "2025p": 31.1, "Variacion": -15.8 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 286146, "2025p": 195783, "Variacion": -31.6 },
+      "MillonesBarriles": { "2024p": 4.0, "2025p": 3.2, "Variacion": -21.3 }
+    }
+  },
+  "India": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 1257705, "2025p": 831069, "Variacion": -33.9 },
+      "MillonesBarriles": { "2024p": 17.5, "2025p": 13.5, "Variacion": -23.1 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 127835, "2025p": 117079, "Variacion": -8.4 },
+      "MillonesBarriles": { "2024p": 1.9, "2025p": 2.0, "Variacion": 2.7 }
+    }
+  },
+  "Costa de Marfil": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 172018, "2025p": 133010, "Variacion": -22.7 },
+      "MillonesBarriles": { "2024p": 2.2, "2025p": 2.1, "Variacion": -5.8 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 0, "2025p": 36968, "Variacion": null },
+      "MillonesBarriles": { "2024p": 0.0, "2025p": 0.6, "Variacion": null }
+    }
+  },
+  "Demás países": {
+    "EneroAgosto": {
+      "MilesDolaresFOB": { "2024p": 385094, "2025p": 753012, "Variacion": 95.5 },
+      "MillonesBarriles": { "2024p": 5.3, "2025p": 11.7, "Variacion": 121.2 }
+    },
+    "Agosto": {
+      "MilesDolaresFOB": { "2024p": 69303, "2025p": 59269, "Variacion": -14.5 },
+      "MillonesBarriles": { "2024p": 1.0, "2025p": 1.0, "Variacion": -2.5 }
+    }
+  }
+}

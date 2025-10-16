@@ -1,0 +1,92 @@
+[
+  {
+    "grupo": "Agropecuario alimentos y bebidas",
+    "capitulo": "00",
+    "descripcion": "Animales vivos no incluidos en el capítulo 03",
+    "año": 2024,
+    "valor_fob": 131447,
+    "variacion_pct": 20.0,
+    "contribucion_pp": 0.1
+  },
+  {
+    "grupo": "Agropecuario alimentos y bebidas",
+    "capitulo": "00",
+    "descripcion": "Animales vivos no incluidos en el capítulo 03",
+    "año": 2025,
+    "valor_fob": 157704,
+    "variacion_pct": 20.0,
+    "contribucion_pp": 0.1
+  },
+  {
+    "grupo": "Agropecuario alimentos y bebidas",
+    "capitulo": "07",
+    "descripcion": "Café, té, cacao, especias y sus preparados",
+    "año": 2024,
+    "valor_fob": 2533797,
+    "variacion_pct": 75.3,
+    "contribucion_pp": 5.9
+  },
+  {
+    "grupo": "Agropecuario alimentos y bebidas",
+    "capitulo": "07",
+    "descripcion": "Café, té, cacao, especias y sus preparados",
+    "año": 2025,
+    "valor_fob": 4441410,
+    "variacion_pct": 75.3,
+    "contribucion_pp": 5.9
+  },
+  {
+    "grupo": "Combustibles",
+    "capitulo": "33",
+    "descripcion": "Petróleo, productos derivados del petróleo y productos conexos",
+    "año": 2024,
+    "valor_fob": 10271139,
+    "variacion_pct": -16.7,
+    "contribucion_pp": -5.3
+  },
+  {
+    "grupo": "Combustibles",
+    "capitulo": "33",
+    "descripcion": "Petróleo, productos derivados del petróleo y productos conexos",
+    "año": 2025,
+    "valor_fob": 8557869,
+    "variacion_pct": -16.7,
+    "contribucion_pp": -5.3
+  },
+  {
+    "grupo": "Manufacturas",
+    "capitulo": "77",
+    "descripcion": "Maquinaria, aparatos y artefactos eléctricos, n.e.p.",
+    "año": 2024,
+    "valor_fob": 660979,
+    "variacion_pct": 6.4,
+    "contribucion_pp": 0.1
+  },
+  {
+    "grupo": "Manufacturas",
+    "capitulo": "77",
+    "descripcion": "Maquinaria, aparatos y artefactos eléctricos, n.e.p.",
+    "año": 2025,
+    "valor_fob": 703365,
+    "variacion_pct": 6.4,
+    "contribucion_pp": 0.1
+  },
+  {
+    "grupo": "Otros",
+    "capitulo": "97",
+    "descripcion": "Oro no monetario (excepto minerales y concentrados de oro)",
+    "año": 2024,
+    "valor_fob": 2405933,
+    "variacion_pct": 12.5,
+    "contribucion_pp": 0.9
+  },
+  {
+    "grupo": "Otros",
+    "capitulo": "97",
+    "descripcion": "Oro no monetario (excepto minerales y concentrados de oro)",
+    "año": 2025,
+    "valor_fob": 2706191,
+    "variacion_pct": 12.5,
+    "contribucion_pp": 0.9
+  }
+]

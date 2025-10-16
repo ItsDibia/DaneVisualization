@@ -1,0 +1,303 @@
+{
+  "metadata": {
+    "titulo": "Exportaciones tradicionales y no tradicionales",
+    "periodo": "Agosto (2025/2024)",
+    "fuente": "DANE",
+    "notas": [
+      "a: Incluye ajustes por cobertura y fecha de transacción",
+      "b: Incluye petróleo crudo y productos derivados",
+      "c: Dato provisional con cobertura parcial",
+      "d: Dato revisado",
+      "e: Dato estimado",
+      "f: Dato preliminar",
+      "g: Excluye oro no monetario y esmeraldas"
+    ]
+  },
+  "resumen": {
+    "agosto": {
+      "valor_dolares": {
+        "2024": 3845711,
+        "2025": 3842152,
+        "variacion_porcentual": -0.1
+      },
+      "toneladas_metricas": {
+        "2024": 6455140,
+        "2025": 5368858,
+        "variacion_porcentual": -16.8
+      }
+    },
+    "enero_agosto": {
+      "valor_dolares": {
+        "2024": 32482085,
+        "2025": 32659687,
+        "variacion_porcentual": 0.5
+      },
+      "toneladas_metricas": {
+        "2024": 71032708,
+        "2025": 57770922,
+        "variacion_porcentual": -18.7
+      }
+    }
+  },
+  "categorias": [
+    {
+      "tipo": "tradicionales",
+      "nombre": "Exportaciones tradicionales",
+      "agosto": {
+        "valor_dolares": {
+          "2024": 2012310,
+          "2025": 1748170,
+          "variacion_porcentual": -13.1,
+          "participacion_total": 45.5
+        },
+        "toneladas_metricas": {
+          "2024": 5847608,
+          "2025": 4517161,
+          "variacion_porcentual": -22.8,
+          "participacion_total": 84.1
+        }
+      },
+      "enero_agosto": {
+        "valor_dolares": {
+          "2024": 17457254,
+          "2025": 15618386,
+          "variacion_porcentual": -10.5,
+          "participacion_total": 47.8
+        },
+        "toneladas_metricas": {
+          "2024": 64503857,
+          "2025": 51039759,
+          "variacion_porcentual": -20.9,
+          "participacion_total": 88.4
+        }
+      },
+      "productos": [
+        {
+          "nombre": "Café",
+          "codigo": "cafe",
+          "agosto": {
+            "valor_dolares": {
+              "2024": 305207,
+              "2025": 522892,
+              "variacion_porcentual": 71.3
+            },
+            "toneladas_metricas": {
+              "2024": 55868,
+              "2025": 69640,
+              "variacion_porcentual": 24.6,
+              "nota": "Dato provisional con cobertura parcial"
+            }
+          },
+          "enero_agosto": {
+            "valor_dolares": {
+              "2024": 2044472,
+              "2025": 3674690,
+              "variacion_porcentual": 79.7
+            },
+            "toneladas_metricas": {
+              "2024": 419590,
+              "2025": 480865,
+              "variacion_porcentual": 14.6,
+              "nota": "Dato estimado"
+            }
+          }
+        },
+        {
+          "nombre": "Petróleo y sus derivados",
+          "codigo": "petroleo",
+          "agosto": {
+            "valor_dolares": {
+              "2024": 1292741,
+              "2025": 959807,
+              "variacion_porcentual": -25.8
+            },
+            "toneladas_metricas": {
+              "2024": 2730522,
+              "2025": 2275300,
+              "variacion_porcentual": -16.7
+            }
+          },
+          "enero_agosto": {
+            "valor_dolares": {
+              "2024": 10270853,
+              "2025": 8556509,
+              "variacion_porcentual": -16.7
+            },
+            "toneladas_metricas": {
+              "2024": 20815085,
+              "2025": 19916031,
+              "variacion_porcentual": -4.3
+            }
+          }
+        },
+        {
+          "nombre": "Carbón",
+          "codigo": "carbon",
+          "agosto": {
+            "valor_dolares": {
+              "2024": 352621,
+              "2025": 224460,
+              "variacion_porcentual": -36.3
+            },
+            "toneladas_metricas": {
+              "2024": 3046320,
+              "2025": 2159694,
+              "variacion_porcentual": -29.1
+            }
+          },
+          "enero_agosto": {
+            "valor_dolares": {
+              "2024": 4780410,
+              "2025": 3076950,
+              "variacion_porcentual": -35.6
+            },
+            "toneladas_metricas": {
+              "2024": 43168390,
+              "2025": 30549527,
+              "variacion_porcentual": -29.2
+            }
+          }
+        },
+        {
+          "nombre": "Ferroníquel",
+          "codigo": "ferroniquel",
+          "agosto": {
+            "valor_dolares": {
+              "2024": 61741,
+              "2025": 41012,
+              "variacion_porcentual": -33.6
+            },
+            "toneladas_metricas": {
+              "2024": 14897,
+              "2025": 12527,
+              "variacion_porcentual": -15.9
+            }
+          },
+          "enero_agosto": {
+            "valor_dolares": {
+              "2024": 361520,
+              "2025": 310238,
+              "variacion_porcentual": -14.2
+            },
+            "toneladas_metricas": {
+              "2024": 100791,
+              "2025": 93336,
+              "variacion_porcentual": -7.4
+            }
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "no_tradicionales",
+      "nombre": "Exportaciones no tradicionales",
+      "agosto": {
+        "valor_dolares": {
+          "2024": 1833400,
+          "2025": 2093982,
+          "variacion_porcentual": 14.2,
+          "participacion_total": 54.5
+        },
+        "toneladas_metricas": {
+          "2024": 607532,
+          "2025": 851697,
+          "variacion_porcentual": 40.2,
+          "participacion_total": 15.9
+        }
+      },
+      "enero_agosto": {
+        "valor_dolares": {
+          "2024": 15024831,
+          "2025": 17041301,
+          "variacion_porcentual": 13.4,
+          "participacion_total": 52.2
+        },
+        "toneladas_metricas": {
+          "2024": 6528851,
+          "2025": 6731163,
+          "variacion_porcentual": 3.1,
+          "participacion_total": 11.6
+        }
+      },
+      "subcategorias": [
+        {
+          "nombre": "Sin oro ni esmeraldas",
+          "codigo": "sin_oro_esmeraldas",
+          "agosto": {
+            "valor_dolares": {
+              "2024": 1508006,
+              "2025": 1778763,
+              "variacion_porcentual": 18.0
+            },
+            "toneladas_metricas": {
+              "2024": 607526,
+              "2025": 851693,
+              "variacion_porcentual": 40.2
+            }
+          },
+          "enero_agosto": {
+            "valor_dolares": {
+              "2024": 12536015,
+              "2025": 14259922,
+              "variacion_porcentual": 13.8
+            },
+            "toneladas_metricas": {
+              "2024": 6528807,
+              "2025": 6731126,
+              "variacion_porcentual": 3.1
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "comparacion_tradicionales_vs_no_tradicionales": {
+    "agosto_2025": {
+      "tradicionales": {
+        "valor_dolares": 1748170,
+        "participacion_porcentual": 45.5
+      },
+      "no_tradicionales": {
+        "valor_dolares": 2093982,
+        "participacion_porcentual": 54.5
+      }
+    },
+    "enero_agosto_2025": {
+      "tradicionales": {
+        "valor_dolares": 15618386,
+        "participacion_porcentual": 47.8
+      },
+      "no_tradicionales": {
+        "valor_dolares": 17041301,
+        "participacion_porcentual": 52.2
+      }
+    }
+  },
+  "analisis_productos_tradicionales": {
+    "enero_agosto_2025": {
+      "total_tradicionales": 15618386,
+      "distribucion": [
+        {
+          "producto": "Petróleo y derivados",
+          "valor": 8556509,
+          "participacion_porcentual": 54.8
+        },
+        {
+          "producto": "Café",
+          "valor": 3674690,
+          "participacion_porcentual": 23.5
+        },
+        {
+          "producto": "Carbón",
+          "valor": 3076950,
+          "participacion_porcentual": 19.7
+        },
+        {
+          "producto": "Ferroníquel",
+          "valor": 310238,
+          "participacion_porcentual": 2.0
+        }
+      ]
+    }
+  }
+}

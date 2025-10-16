@@ -1,0 +1,760 @@
+{
+  "metadata": {
+    "titulo": "Exportaciones según principales países de destino y capítulos del arancel",
+    "periodo": "2020 - 2025",
+    "unidad": "Miles de dólares FOB",
+    "fuente": "DANE",
+    "nota": "* 2025 datos preliminares (enero-agosto)"
+  },
+  "paises": [
+    {
+      "nombre": "Estados Unidos",
+      "codigo": "US",
+      "region": "América del Norte",
+      "totales_historicos": {
+        "2025": 9899851,
+        "2024": 14335030,
+        "2023": 13097978,
+        "2022": 14840229,
+        "2021": 10959656,
+        "2020": 8921768
+      },
+      "variacion_2025_2024": -30.9,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales y sus productos",
+          "valores": {
+            "2025": 3466740,
+            "2024": 5749703,
+            "2023": 5365650,
+            "2022": 7074567,
+            "2021": 4382003,
+            "2020": 3547935
+          },
+          "participacion_2025": 35.0
+        },
+        {
+          "capitulo": "71",
+          "nombre": "Perlas finas, piedras y metales preciosos",
+          "valores": {
+            "2025": 853484,
+            "2024": 1616412,
+            "2023": 1446823,
+            "2022": 1059087,
+            "2021": 1318005,
+            "2020": 1185589
+          },
+          "participacion_2025": 8.6
+        },
+        {
+          "capitulo": "6",
+          "nombre": "Plantas vivas y productos de la floricultura",
+          "valores": {
+            "2025": 1365858,
+            "2024": 1887863,
+            "2023": 1671852,
+            "2022": 1652844,
+            "2021": 1356246,
+            "2020": 1136389
+          },
+          "participacion_2025": 13.8
+        },
+        {
+          "capitulo": "9",
+          "nombre": "Café, té, yerba mate y especias",
+          "valores": {
+            "2025": 1434192,
+            "2024": 1422658,
+            "2023": 1198217,
+            "2022": 1790071,
+            "2021": 1346483,
+            "2020": 1050192
+          },
+          "participacion_2025": 14.5
+        },
+        {
+          "capitulo": "8",
+          "nombre": "Frutos comestibles, cortezas de agrios o melones",
+          "valores": {
+            "2025": 393600,
+            "2024": 428998,
+            "2023": 292162,
+            "2022": 319781,
+            "2021": 210895,
+            "2020": 188834
+          },
+          "participacion_2025": 4.0
+        }
+      ],
+      "otros": {
+        "2025": 1877050,
+        "2024": 2577589,
+        "2023": 2471065,
+        "2022": 2158268,
+        "2021": 1651978,
+        "2020": 1325301
+      }
+    },
+    {
+      "nombre": "China",
+      "codigo": "CN",
+      "region": "Asia",
+      "totales_historicos": {
+        "2025": 1039793,
+        "2024": 2377153,
+        "2023": 2469306,
+        "2022": 2153791,
+        "2021": 3660969,
+        "2020": 2750825
+      },
+      "variacion_2025_2024": -56.3,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales y sus productos",
+          "valores": {
+            "2025": 397078,
+            "2024": 1514127,
+            "2023": 1613718,
+            "2022": 1202296,
+            "2021": 2995937,
+            "2020": 2312794
+          },
+          "participacion_2025": 38.2
+        },
+        {
+          "capitulo": "72",
+          "nombre": "Fundición, hierro y acero",
+          "valores": {
+            "2025": 173506,
+            "2024": 290041,
+            "2023": 308088,
+            "2022": 407167,
+            "2021": 258850,
+            "2020": 269810
+          },
+          "participacion_2025": 16.7
+        },
+        {
+          "capitulo": "74",
+          "nombre": "Cobre y sus manufacturas",
+          "valores": {
+            "2025": 127570,
+            "2024": 163176,
+            "2023": 158294,
+            "2022": 202274,
+            "2021": 117913,
+            "2020": 6496
+          },
+          "participacion_2025": 12.3
+        },
+        {
+          "capitulo": "9",
+          "nombre": "Café, té, yerba mate y especias",
+          "valores": {
+            "2025": 117368,
+            "2024": 146172,
+            "2023": 138505,
+            "2022": 84848,
+            "2021": 53373,
+            "2020": 26047
+          },
+          "participacion_2025": 11.3
+        }
+      ],
+      "otros": {
+        "2025": 205520,
+        "2024": 221694,
+        "2023": 134068,
+        "2022": 157618,
+        "2021": 173717,
+        "2020": 99026
+      }
+    },
+    {
+      "nombre": "Panamá",
+      "codigo": "PA",
+      "region": "Centroamérica",
+      "totales_historicos": {
+        "2025": 2248767,
+        "2024": 4309345,
+        "2023": 4622878,
+        "2022": 5834436,
+        "2021": 2384744,
+        "2020": 1428945
+      },
+      "variacion_2025_2024": -47.8,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales y sus productos",
+          "valores": {
+            "2025": 2007596,
+            "2024": 3957508,
+            "2023": 4273574,
+            "2022": 5478107,
+            "2021": 2074081,
+            "2020": 1146098
+          },
+          "participacion_2025": 89.3
+        }
+      ],
+      "otros": {
+        "2025": 137029,
+        "2024": 198842,
+        "2023": 201211,
+        "2022": 213442,
+        "2021": 178476,
+        "2020": 154244
+      }
+    },
+    {
+      "nombre": "India",
+      "codigo": "IN",
+      "region": "Asia",
+      "totales_historicos": {
+        "2025": 1233321,
+        "2024": 2668089,
+        "2023": 2397798,
+        "2022": 2304007,
+        "2021": 2238801,
+        "2020": 795165
+      },
+      "variacion_2025_2024": -53.8,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales y sus productos",
+          "valores": {
+            "2025": 982939,
+            "2024": 1907106,
+            "2023": 1771729,
+            "2022": 1862686,
+            "2021": 2048863,
+            "2020": 692991
+          },
+          "participacion_2025": 79.7
+        },
+        {
+          "capitulo": "71",
+          "nombre": "Perlas finas, piedras y metales preciosos",
+          "valores": {
+            "2025": 130093,
+            "2024": 582956,
+            "2023": 486359,
+            "2022": 385273,
+            "2021": 139228,
+            "2020": 25555
+          },
+          "participacion_2025": 10.6
+        }
+      ],
+      "otros": {
+        "2025": 57224,
+        "2024": 52768,
+        "2023": 67018,
+        "2022": 14163,
+        "2021": 13747,
+        "2020": 49612
+      }
+    },
+    {
+      "nombre": "Venezuela",
+      "codigo": "VE",
+      "region": "América del Sur",
+      "totales_historicos": {
+        "2025": 680739,
+        "2024": 1003584,
+        "2023": 673408,
+        "2022": 632333,
+        "2021": 331172,
+        "2020": 195981
+      },
+      "variacion_2025_2024": -32.2,
+      "principales_capitulos": [
+        {
+          "capitulo": "39",
+          "nombre": "Materias plásticas y manufacturas",
+          "valores": {
+            "2025": 78022,
+            "2024": 114436,
+            "2023": 78522,
+            "2022": 109718,
+            "2021": 70165,
+            "2020": 36583
+          },
+          "participacion_2025": 11.5
+        },
+        {
+          "capitulo": "17",
+          "nombre": "Azúcares y artículos confitería",
+          "valores": {
+            "2025": 38916,
+            "2024": 72995,
+            "2023": 63363,
+            "2022": 52812,
+            "2021": 21943,
+            "2020": 8492
+          },
+          "participacion_2025": 5.7
+        },
+        {
+          "capitulo": "72",
+          "nombre": "Fundición, hierro y acero",
+          "valores": {
+            "2025": 37771,
+            "2024": 43269,
+            "2023": 26051,
+            "2022": 41067,
+            "2021": 19282,
+            "2020": 9357
+          },
+          "participacion_2025": 5.5
+        }
+      ],
+      "otros": {
+        "2025": 405582,
+        "2024": 595065,
+        "2023": 385789,
+        "2022": 330737,
+        "2021": 159894,
+        "2020": 97293
+      }
+    },
+    {
+      "nombre": "Ecuador",
+      "codigo": "EC",
+      "region": "América del Sur",
+      "totales_historicos": {
+        "2025": 1208782,
+        "2024": 1921040,
+        "2023": 2014886,
+        "2022": 1882265,
+        "2021": 1757980,
+        "2020": 1473607
+      },
+      "variacion_2025_2024": -37.1,
+      "principales_capitulos": [
+        {
+          "capitulo": "87",
+          "nombre": "Vehículos automóviles, tractores, ciclos, partes",
+          "valores": {
+            "2025": 70966,
+            "2024": 137277,
+            "2023": 182427,
+            "2022": 222920,
+            "2021": 203397,
+            "2020": 136780
+          },
+          "participacion_2025": 5.9
+        },
+        {
+          "capitulo": "39",
+          "nombre": "Materias plásticas y manufacturas",
+          "valores": {
+            "2025": 81272,
+            "2024": 128043,
+            "2023": 139290,
+            "2022": 169674,
+            "2021": 158917,
+            "2020": 105289
+          },
+          "participacion_2025": 6.7
+        },
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales",
+          "valores": {
+            "2025": 152237,
+            "2024": 359205,
+            "2023": 310565,
+            "2022": 40901,
+            "2021": 153293,
+            "2020": 214419
+          },
+          "participacion_2025": 12.6
+        },
+        {
+          "capitulo": "33",
+          "nombre": "Aceites esenciales, perfumería, cosméticos",
+          "valores": {
+            "2025": 93259,
+            "2024": 127222,
+            "2023": 119714,
+            "2022": 108455,
+            "2021": 88088,
+            "2020": 79324
+          },
+          "participacion_2025": 7.7
+        }
+      ],
+      "otros": {
+        "2025": 499533,
+        "2024": 709471,
+        "2023": 787432,
+        "2022": 859686,
+        "2021": 715127,
+        "2020": 558579
+      }
+    },
+    {
+      "nombre": "Países Bajos",
+      "codigo": "NL",
+      "region": "Europa",
+      "totales_historicos": {
+        "2025": 1392265,
+        "2024": 1543042,
+        "2023": 2042400,
+        "2022": 2697795,
+        "2021": 981102,
+        "2020": 698997
+      },
+      "variacion_2025_2024": -9.8,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales",
+          "valores": {
+            "2025": 850461,
+            "2024": 908403,
+            "2023": 1445647,
+            "2022": 1950014,
+            "2021": 481182,
+            "2020": 248139
+          },
+          "participacion_2025": 61.1
+        },
+        {
+          "capitulo": "8",
+          "nombre": "Frutos comestibles",
+          "valores": {
+            "2025": 204647,
+            "2024": 289195,
+            "2023": 242509,
+            "2022": 250340,
+            "2021": 243493,
+            "2020": 202931
+          },
+          "participacion_2025": 14.7
+        },
+        {
+          "capitulo": "15",
+          "nombre": "Grasas y aceites animales o vegetales",
+          "valores": {
+            "2025": 114475,
+            "2024": 58903,
+            "2023": 108558,
+            "2022": 186716,
+            "2021": 70395,
+            "2020": 110889
+          },
+          "participacion_2025": 8.2
+        },
+        {
+          "capitulo": "9",
+          "nombre": "Café, té, yerba mate y especias",
+          "valores": {
+            "2025": 74986,
+            "2024": 64393,
+            "2023": 52927,
+            "2022": 67843,
+            "2021": 39486,
+            "2020": 23753
+          },
+          "participacion_2025": 5.4
+        }
+      ],
+      "otros": {
+        "2025": 51271,
+        "2024": 61635,
+        "2023": 40476,
+        "2022": 51399,
+        "2021": 37994,
+        "2020": 43307
+      }
+    },
+    {
+      "nombre": "México",
+      "codigo": "MX",
+      "region": "América del Norte",
+      "totales_historicos": {
+        "2025": 1002413,
+        "2024": 1956614,
+        "2023": 1878579,
+        "2022": 1752314,
+        "2021": 1202672,
+        "2020": 1161018
+      },
+      "variacion_2025_2024": -48.8,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales",
+          "valores": {
+            "2025": 103398,
+            "2024": 551262,
+            "2023": 693313,
+            "2022": 699022,
+            "2021": 309472,
+            "2020": 418575
+          },
+          "participacion_2025": 10.3
+        },
+        {
+          "capitulo": "33",
+          "nombre": "Aceites esenciales, perfumería, cosméticos",
+          "valores": {
+            "2025": 88221,
+            "2024": 126351,
+            "2023": 100058,
+            "2022": 78675,
+            "2021": 80304,
+            "2020": 77284
+          },
+          "participacion_2025": 8.8
+        },
+        {
+          "capitulo": "39",
+          "nombre": "Materias plásticas y manufacturas",
+          "valores": {
+            "2025": 77222,
+            "2024": 140561,
+            "2023": 134591,
+            "2022": 171792,
+            "2021": 171302,
+            "2020": 84719
+          },
+          "participacion_2025": 7.7
+        },
+        {
+          "capitulo": "38",
+          "nombre": "Productos diversos industrias químicas",
+          "valores": {
+            "2025": 72037,
+            "2024": 92124,
+            "2023": 91498,
+            "2022": 83477,
+            "2021": 94895,
+            "2020": 61718
+          },
+          "participacion_2025": 7.2
+        }
+      ],
+      "otros": {
+        "2025": 534261,
+        "2024": 744356,
+        "2023": 555406,
+        "2022": 545016,
+        "2021": 439762,
+        "2020": 383412
+      }
+    },
+    {
+      "nombre": "Brasil",
+      "codigo": "BR",
+      "region": "América del Sur",
+      "totales_historicos": {
+        "2025": 1188614,
+        "2024": 1927267,
+        "2023": 1885421,
+        "2022": 2332731,
+        "2021": 2049079,
+        "2020": 1274000
+      },
+      "variacion_2025_2024": -38.3,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales",
+          "valores": {
+            "2025": 465873,
+            "2024": 974138,
+            "2023": 842130,
+            "2022": 1175613,
+            "2021": 994073,
+            "2020": 466809
+          },
+          "participacion_2025": 39.2
+        },
+        {
+          "capitulo": "39",
+          "nombre": "Materias plásticas y manufacturas",
+          "valores": {
+            "2025": 363764,
+            "2024": 486811,
+            "2023": 454770,
+            "2022": 548078,
+            "2021": 569621,
+            "2020": 396314
+          },
+          "participacion_2025": 30.6
+        },
+        {
+          "capitulo": "38",
+          "nombre": "Productos diversos industrias químicas",
+          "valores": {
+            "2025": 126590,
+            "2024": 125854,
+            "2023": 155873,
+            "2022": 144297,
+            "2021": 114269,
+            "2020": 91663
+          },
+          "participacion_2025": 10.6
+        }
+      ],
+      "otros": {
+        "2025": 121817,
+        "2024": 187532,
+        "2023": 194281,
+        "2022": 236095,
+        "2021": 191376,
+        "2020": 176969
+      }
+    },
+    {
+      "nombre": "Perú",
+      "codigo": "PE",
+      "region": "América del Sur",
+      "totales_historicos": {
+        "2025": 911362,
+        "2024": 1169399,
+        "2023": 1136849,
+        "2022": 1107119,
+        "2021": 1081432,
+        "2020": 854293
+      },
+      "variacion_2025_2024": -22.1,
+      "principales_capitulos": [
+        {
+          "capitulo": "27",
+          "nombre": "Combustibles y aceites minerales",
+          "valores": {
+            "2025": 163268,
+            "2024": 198764,
+            "2023": 210043,
+            "2022": 90775,
+            "2021": 85975,
+            "2020": 26317
+          },
+          "participacion_2025": 17.9
+        },
+        {
+          "capitulo": "33",
+          "nombre": "Aceites esenciales, perfumería, cosméticos",
+          "valores": {
+            "2025": 99419,
+            "2024": 135438,
+            "2023": 122420,
+            "2022": 123701,
+            "2021": 115150,
+            "2020": 94832
+          },
+          "participacion_2025": 10.9
+        },
+        {
+          "capitulo": "39",
+          "nombre": "Materias plásticas y manufacturas",
+          "valores": {
+            "2025": 54195,
+            "2024": 93134,
+            "2023": 98685,
+            "2022": 130609,
+            "2021": 158228,
+            "2020": 96220
+          },
+          "participacion_2025": 5.9
+        },
+        {
+          "capitulo": "17",
+          "nombre": "Azúcares y artículos confitería",
+          "valores": {
+            "2025": 52798,
+            "2024": 58229,
+            "2023": 62084,
+            "2022": 55605,
+            "2021": 62735,
+            "2020": 86517
+          },
+          "participacion_2025": 5.8
+        }
+      ],
+      "otros": {
+        "2025": 345714,
+        "2024": 424895,
+        "2023": 381011,
+        "2022": 439261,
+        "2021": 393969,
+        "2020": 312473
+      }
+    }
+  ],
+  "resumen_tendencias": {
+    "principales_destinos_2025": [
+      {
+        "posicion": 1,
+        "pais": "Estados Unidos",
+        "valor": 9899851,
+        "participacion": 30.3
+      },
+      {
+        "posicion": 2,
+        "pais": "Panamá",
+        "valor": 2248767,
+        "participacion": 6.9
+      },
+      {
+        "posicion": 3,
+        "pais": "Países Bajos",
+        "valor": 1392265,
+        "participacion": 4.3
+      },
+      {
+        "posicion": 4,
+        "pais": "India",
+        "valor": 1233321,
+        "participacion": 3.8
+      },
+      {
+        "posicion": 5,
+        "pais": "Ecuador",
+        "valor": 1208782,
+        "participacion": 3.7
+      }
+    ],
+    "mayores_caidas_2025_vs_2024": [
+      {
+        "pais": "China",
+        "caida_porcentual": -56.3
+      },
+      {
+        "pais": "India",
+        "caida_porcentual": -53.8
+      },
+      {
+        "pais": "México",
+        "caida_porcentual": -48.8
+      },
+      {
+        "pais": "Panamá",
+        "caida_porcentual": -47.8
+      },
+      {
+        "pais": "Brasil",
+        "caida_porcentual": -38.3
+      }
+    ],
+    "capitulo_mas_exportado": {
+      "capitulo": "27",
+      "nombre": "Combustibles y aceites minerales",
+      "paises_principales": [
+        "Estados Unidos",
+        "Panamá",
+        "India",
+        "China",
+        "Países Bajos"
+      ]
+    }
+  }
+}

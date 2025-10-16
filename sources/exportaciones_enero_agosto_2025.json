@@ -1,0 +1,141 @@
+{
+  "periodo": "Enero-Agosto",
+  "unidad": {
+    "valor": "Miles de dólares FOB",
+    "peso": "Toneladas métricas"
+  },
+  "exportaciones": [
+    {
+      "Aduana": "Cartagena",
+      "FOB_2024": 14339114,
+      "FOB_2025": 14195266,
+      "Variacion_%": -1.0
+    },
+    {
+      "Aduana": "Santa Marta",
+      "FOB_2024": 3531317,
+      "FOB_2025": 2892960,
+      "Variacion_%": -18.1
+    },
+    {
+      "Aduana": "Buenaventura",
+      "FOB_2024": 3376069,
+      "FOB_2025": 4276809,
+      "Variacion_%": 26.7
+    },
+    {
+      "Aduana": "Medellín",
+      "FOB_2024": 2715830,
+      "FOB_2025": 3122310,
+      "Variacion_%": 15.0
+    },
+    {
+      "Aduana": "Bogotá",
+      "FOB_2024": 2672386,
+      "FOB_2025": 2730378,
+      "Variacion_%": 2.2
+    },
+    {
+      "Aduana": "Barranquilla",
+      "FOB_2024": 2056379,
+      "FOB_2025": 1851489,
+      "Variacion_%": -10.0
+    },
+    {
+      "Aduana": "Riohacha",
+      "FOB_2024": 1247145,
+      "FOB_2025": 862246,
+      "Variacion_%": -30.9
+    },
+    {
+      "Aduana": "Ipiales",
+      "FOB_2024": 806336,
+      "FOB_2025": 791242,
+      "Variacion_%": -1.9
+    },
+    {
+      "Aduana": "Urabá",
+      "FOB_2024": 519736,
+      "FOB_2025": 582543,
+      "Variacion_%": 12.1
+    },
+    {
+      "Aduana": "Tumaco",
+      "FOB_2024": 299911,
+      "FOB_2025": 107443,
+      "Variacion_%": -64.2
+    },
+    {
+      "Aduana": "Cali",
+      "FOB_2024": 298752,
+      "FOB_2025": 263460,
+      "Variacion_%": -11.8
+    },
+    {
+      "Aduana": "Maicao",
+      "FOB_2024": 287378,
+      "FOB_2025": 264403,
+      "Variacion_%": -8.0
+    },
+    {
+      "Aduana": "Cúcuta",
+      "FOB_2024": 177717,
+      "FOB_2025": 268359,
+      "Variacion_%": 51.0
+    },
+    {
+      "Aduana": "Puerto Asís",
+      "FOB_2024": 66069,
+      "FOB_2025": 119315,
+      "Variacion_%": 80.6
+    },
+    {
+      "Aduana": "Bucaramanga",
+      "FOB_2024": 59238,
+      "FOB_2025": 301486,
+      "Variacion_%": 408.9
+    },
+    {
+      "Aduana": "Pereira",
+      "FOB_2024": 27316,
+      "FOB_2025": 12644,
+      "Variacion_%": -53.7
+    },
+    {
+      "Aduana": "Armenia",
+      "FOB_2024": 900,
+      "FOB_2025": 4583,
+      "Variacion_%": 409.1
+    },
+    {
+      "Aduana": "Manizales",
+      "FOB_2024": 236,
+      "FOB_2025": 0,
+      "Variacion_%": -100.0
+    },
+    {
+      "Aduana": "San Andrés",
+      "FOB_2024": 208,
+      "FOB_2025": 3,
+      "Variacion_%": -98.7
+    },
+    {
+      "Aduana": "Leticia",
+      "FOB_2024": 49,
+      "FOB_2025": 35,
+      "Variacion_%": -27.5
+    },
+    {
+      "Aduana": "Arauca",
+      "FOB_2024": 0,
+      "FOB_2025": 797,
+      "Variacion_%": null
+    },
+    {
+      "Aduana": "Yopal",
+      "FOB_2024": 0,
+      "FOB_2025": 11917,
+      "Variacion_%": null
+    }
+  ]
+}
