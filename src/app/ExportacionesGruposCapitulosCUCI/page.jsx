@@ -111,7 +111,6 @@ const ExportacionesGruposCapítulosCUCI = () => {
             <option value="resumen">📊 Resumen Ejecutivo</option>
             <option value="categorias">🏢 Por Categorías</option>
             <option value="capitulos">📋 Por Capítulos</option>
-            <option value="contribucion">📈 Contribución</option>
           </select>
           <select value={periodo} onChange={e => setPeriodo(e.target.value)} className="p-2 border rounded">
             <option value="enero_agosto">📅 Ene-Ago</option>
